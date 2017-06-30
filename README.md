@@ -1,3 +1,6 @@
+# อาหารที่ชอบ
+shabushi
+
 # Student-ID
 57122420357
 # Name
