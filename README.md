@@ -1,5 +1,5 @@
 # อาหารที่ชอบ
-shabushi
+shabushi, Pizza, KFC
 
 # Student-ID
 57122420357
